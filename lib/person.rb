@@ -1,3 +1,3 @@
 class Person
-  def name=()
+  def name=(person)
 end
