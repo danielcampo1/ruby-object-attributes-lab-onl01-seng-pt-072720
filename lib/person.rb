@@ -6,6 +6,9 @@ class Person
   def name
     @name
   end
+  
+  def 
+  
 end
 
 beyonce = Person.new
