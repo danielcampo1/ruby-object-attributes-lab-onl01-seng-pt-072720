@@ -16,6 +16,7 @@ end
 def breed
   @breed
 end
+end
 
 
 Fido = Dog.new
