@@ -11,4 +11,4 @@ end
 beyonce = Person.new
 beyonce.name = Beyonce
 
-puts beyonce.person
+puts Beyonce.person
