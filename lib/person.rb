@@ -8,7 +8,7 @@ class Person
   end
 end
 
-beyonce = Person.new
-beyonce.name = Beyonce
+Beyonce = Person.new
+Beyonce.name = Beyonce
 
 puts Beyonce.name
