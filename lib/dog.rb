@@ -9,6 +9,9 @@ class Dog
   end
 end
 
+def breed=(dog)
+  
+
 
 Fido = Dog.new
 Fido.name = "fido"
