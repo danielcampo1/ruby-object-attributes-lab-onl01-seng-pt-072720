@@ -1,6 +1,6 @@
 class Person
-  def name=(Beyonce)
-    @name = Beyonce
+  def name=(beyonce)
+    @name = beyonce
   end
   
   def name
@@ -9,6 +9,6 @@ class Person
 end
 
 Beyonce = Person.new
-Beyonce.name = Beyonce
+beyonce.name = beyonce
 
-puts Beyonce.name
+puts beyonce.name
